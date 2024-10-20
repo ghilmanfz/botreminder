@@ -31,4 +31,5 @@ A simple bot built to send reminders on WhatsApp using Node.js and the `whatsapp
 
 ## License
 
+
 This project is licensed under the MIT License.
